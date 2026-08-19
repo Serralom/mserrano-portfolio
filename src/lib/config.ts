@@ -7,10 +7,9 @@ export const site = {
   location: "España · trabajo en remoto",
   email: "miguelserranoalonso@gmail.com", // TODO: sustituir por email profesional cuando lo tengas
   links: {
-    // TODO: sustituir por las URLs reales de cada perfil
-    linkedin: "https://www.linkedin.com/in/TU-USUARIO",
-    malt: "https://www.malt.es/profile/TU-USUARIO",
-    github: "https://github.com/TU-USUARIO",
+    linkedin: "https://www.linkedin.com/in/miguelserranoalonso/",
+    github: "https://github.com/Serralom",
+    malt: "", // TODO: añadir cuando tengas perfil de Malt
   },
 };
 

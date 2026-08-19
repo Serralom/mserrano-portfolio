@@ -5,7 +5,7 @@ const socials = [
   { href: site.links.linkedin, label: "LinkedIn", Icon: LinkedInIcon },
   { href: site.links.malt, label: "Malt", Icon: MaltIcon },
   { href: site.links.github, label: "GitHub", Icon: GitHubIcon },
-];
+].filter((social) => social.href);
 
 export default function Contact() {
   return (
